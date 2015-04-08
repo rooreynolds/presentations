@@ -131,21 +131,21 @@ Prefix the author of the quote with `--`, or leave it out if it's anonymous.
 
 ---
 
-![](image1.jpg)
+![](assets/image1.jpg)
 
 ---
 
-![fit](image1.jpg)
+![fit](assets/image1.jpg)
 
 ---
 
-![](image1.jpg)
-![](image1.jpg)
-![](image1.jpg)
+![](assets/image1.jpg)
+![](assets/image1.jpg)
+![](assets/image1.jpg)
 
 ---
 
-![](image1.jpg)
+![](assets/image1.jpg)
 
 # Text on Images
 
@@ -153,19 +153,19 @@ Setting text on images applies a filter to the image to make the text more reada
 
 ---
 
-![original](image1.jpg)
+![original](assets/image1.jpg)
 
 # Disable Filter
 
 ---
 
-![original 250%](image1.jpg)
+![original 250%](assets/image1.jpg)
 
 # Zoom In 
 
 ---
 
-![left](image1.jpg)
+![left](assets/image1.jpg)
 
 # Split Slides
 
@@ -173,7 +173,7 @@ Use the `left` or `right` modifiers to place the image in the left or right half
 
 ---
 
-![right fit](image1.jpg)
+![right fit](assets/image1.jpg)
 
 # Split Slides
 
@@ -183,36 +183,36 @@ Combine `left` or `right` with the `fit` keyword or a percentage to adjust the i
 
 # Combine Text and Images
 
-![inline](image1.jpg)
+![inline](assets/image1.jpg)
 
 ---
 
 # Fill the Slide
 
-![inline fill](image1.jpg)
+![inline fill](assets/image1.jpg)
 
 ---
 
 # Custom Scaling
 
-![inline 50%](image1.jpg)
+![inline 50%](assets/image1.jpg)
 
 ---
 
 # Image Grids
 
-![inline fill](image1.jpg)![inline fill](image1.jpg)
-![inline fill](image1.jpg)
+![inline fill](assets/image1.jpg)![inline fill](assets/image1.jpg)
+![inline fill](assets/image1.jpg)
 
 ---
 
-![](video.mov)
+![](assets/video.mov)
 
 ---
 
 # Inline Videos
 
-![inline](video.mov)
+![inline](assets/video.mov)
 
 ---
 
@@ -222,7 +222,7 @@ Combine `left` or `right` with the `fit` keyword or a percentage to adjust the i
 
 ---
 
-![left](video.mov)
+![left](assets/video.mov)
 
 # Video Layout Control
 
@@ -234,7 +234,7 @@ Use the same layout modifiers as with images to control the positioning of video
 
 ---
 
-![right autoplay mute](video.mov)
+![right autoplay mute](assets/video.mov)
 
 # Video Playback Control
 

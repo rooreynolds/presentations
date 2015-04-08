@@ -31,7 +31,7 @@ clear point of accountable contact
 
 ---
 
-![inline](Screen Shot 2015-03-06 at 12.13.06.png)
+![inline](assets/venn.png)
 
 ## [fit] mindtheproduct.com/2011/10/what-exactly-is-a-product-manager
 

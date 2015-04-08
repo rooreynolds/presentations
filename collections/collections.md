@@ -78,7 +78,7 @@ flickr.com/photos/rooreynolds/8151038615
 
 ---
 
-![inline](lego_studio_montage.png)
+![inline](assets/lego_studio_montage.png)
 
 flickr.com/photos/rooreynolds/sets/72157631919554658
 
@@ -115,7 +115,7 @@ flickr.com/photos/rooreynolds/83410013
 
 flickr.com/groups/lego-vignettes
 
-![inline](flickr_vigs.jpg)
+![inline](assets/flickr_vigs.jpg)
 
 ^ These small scenes are known in the AFOL (adult fans of Lego) community as Lego Vignettes, so I created a group on Flickr. 11k photos from 2k members
 
@@ -151,7 +151,7 @@ flickr.com/photos/wowser/4141251148
 
 flickr.com/groups/inthefridge
 
-![inline](flickr_fridge.jpg)
+![inline](assets/flickr_fridge.jpg)
 
 ^ So I created a group for that. In the fridge. only 100 photos but each one has to follow very specific rules. 
 
@@ -159,19 +159,19 @@ flickr.com/groups/inthefridge
 
 flickr.com/groups/inthefridge
 
-![inline ](flickr_fridge_rules.png)
+![inline ](assets/flickr_fridge_rules.png)
 
 ^ The rules are pretty important. 
 
 ---
 
-![inline](google_xy_results.png)
+![inline](assets/google_xy_results.png)
 
 ^ A few years ago, I noticed a lot of things were “the new black”
 
 ---
 
-![inline](google_xy_search.png)
+![inline](assets/google_xy_search.png)
 
 green is the new red
 blood is the new black
@@ -238,23 +238,23 @@ flickr.com/photos/kellypuffs/2148506493
 
 shewentofherownaccord.com
 
-![inline](swohoa_1.jpg) 
+![inline](assets/swohoa_1.jpg) 
 
 ---
 
 shewentofherownaccord.com
 
-![inline](swohoa_2.jpg) 
+![inline](assets/swohoa_2.jpg) 
 
 ---
 
 shewentofherownaccord.com
 
-![inline](swohoa_3.jpg) 
+![inline](assets/swohoa_3.jpg) 
 
 ---
 
-![inline](fridge_1.png) 
+![inline](assets/fridge_1.png) 
 
 ^ For some time I’ve been intruigued / horrified by the concept of internet connected fridges
 
@@ -262,7 +262,7 @@ shewentofherownaccord.com
 
 fuckyeahinternetfridge.tumblr.com
 
-![inline](fridge.png) 
+![inline](assets/fridge.png) 
 
 ^ So, um, I obviously created a Tumblr
 
@@ -270,13 +270,13 @@ fuckyeahinternetfridge.tumblr.com
 
 fuckyeahinternetfridge.tumblr.com
 
-![inline fill](fridge_2.jpg) ![inline](fridge_3.jpg)
+![inline fill](assets/fridge_2.jpg) ![inline](assets/fridge_3.jpg)
 
 ---
 
 thingsridingonthings.tumblr.com
 
-![inline](riding_1.jpg) 
+![inline](assets/riding_1.jpg) 
 
 ^ More recently, I’ve started another ridiculous collection: photos and videos of things riding on the back of other things.
 
@@ -284,7 +284,7 @@ thingsridingonthings.tumblr.com
 
 thingsridingonthings.tumblr.com
 
-![inline](riding_2.png) 
+![inline](assets/riding_2.png) 
 
 ^ YouTube appears to be literally full of videos of things riding on the back of other things. I go digging for them, but people suggest a couple of new ones every week.
 
@@ -292,7 +292,7 @@ thingsridingonthings.tumblr.com
 
 thingsridingonthings.tumblr.com
 
-![inline](riding_3.png) 
+![inline](assets/riding_3.png) 
 
 ^ It’s definitely not the only weird and super niche collection on Tumblr, but it’s the only one I know of with its own clickable matrix of things riding on the back of other things. Want a photo of a monkey riding on a pig? Just find the right row and column. The more examples there are in that category, the bigger the dot.
 
@@ -300,7 +300,7 @@ thingsridingonthings.tumblr.com
 
 rooreynolds.com/roosletter
 
-![inline](newsletter_1.png) 
+![inline](assets/newsletter_1.png) 
 
 ^ A couple of years ago (after email newsletters were popular, but before it was popular again) I started collecting interesting links and sending out a regular email newsletter. 
 
@@ -310,7 +310,7 @@ rooreynolds.com/roosletter
 
 rooreynolds.com/roosletter
 
-![inline](newsletter_2.png) ![inline](newsletter_3.png)
+![inline](assets/newsletter_2.png) ![inline](assets/newsletter_3.png)
 
 ^ But, unlike most people, I’ve also been collecting the out of office replies that I get. 
 And graphing them. Christmas and summer stand out.
@@ -325,7 +325,7 @@ flickr.com/photos/rooreynolds/13043990863
 
 ---
 
-![inline](loombands.jpg)
+![inline](assets/loombands.jpg)
 
 ---
 
@@ -337,7 +337,7 @@ flickr.com/photos/rooreynolds/13043990863
 
 ---
 
-![inline](other_kim.png)
+![inline](assets/other_kim.png)
 
 kimjongillookingatthings.tumblr.com
 
@@ -345,7 +345,7 @@ kimjongillookingatthings.tumblr.com
 
 ---
 
-![inline](other_sneeze.png)
+![inline](assets/other_sneeze.png)
 
 sneezecount.joyfeed.com
 
@@ -353,7 +353,7 @@ sneezecount.joyfeed.com
 
 ---
 
-![inline](other_kemp.png)
+![inline](assets/other_kemp.png)
 
 kempfolds.blogspot.co.uk
 
@@ -402,7 +402,7 @@ flickr.com/photos/rooreynolds/7983104817
 
 ---
 
-![fit](lester.jpg) 
+![fit](assets/lester.jpg) 
 
 ^ Think of Lester Freamon in ‘The Wire’, quietly making his dollhouse miniature furniture. It’s a perfectly absorbing activity. Other people prefer to knit (someone at W+K used to knit in meetings, which might stop working when you get too good at it and can do it without thinkin at all). Some people write Haiku. We shouldn’t be surprised that people who spend a lot of time online have online hobbies too.
 
